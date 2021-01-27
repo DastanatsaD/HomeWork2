@@ -15,10 +15,6 @@ elif x == '//':
     print('Ответ:', a//b)
 elif x == '**':
     print('Ответ:', a**b)
-elif x == '>':
-    print('Ответ:', a>b)
-elif x == '!=':
-    print('Ответ:', a!=b)
 
 else:
     print("Повторите еще раз")
